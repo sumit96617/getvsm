@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>API for getting profile data</description>
+   <name>TC_01_getting_profile_data</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>be3bc2c0-9313-4d4b-a111-1ebdbc4f56dd</testCaseGuid>
+</TestCaseEntity>

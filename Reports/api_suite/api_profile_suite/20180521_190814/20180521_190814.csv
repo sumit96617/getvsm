@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+api_profile_suite,,suite for running testcase which is related to profile,2018-05-21 19:08:16,2018-05-21 19:08:18,1.664s,PASSED
+,,,,,,
+Test Cases/api_testcase/TC_01_getting_profile_data,,API for getting profile data,2018-05-21 19:08:17,2018-05-21 19:08:18,1.133s,PASSED
+"Statement - response = com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.sendRequest(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(api_OB/get_profile_data_with_correct_authorization_key, [id:1]))",,,2018-05-21 19:08:17,2018-05-21 19:08:18,0.600s,PASSED
+verifyResponseStatusCode,,,2018-05-21 19:08:18,2018-05-21 19:08:18,0.018s,PASSED
+verifyElementPropertyValue,,,2018-05-21 19:08:18,2018-05-21 19:08:18,0.106s,PASSED
